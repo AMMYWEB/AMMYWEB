@@ -8,7 +8,6 @@
   <title>Cupar Mutts - Doggy Day Care</title>
   <script src="https://cdn.tailwindcss.com/3.4.17"></script>
   <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
-  <script src="/_sdk/8650958800d6c92a.element_sdk.js" integrity="sha512-zFMhEG5W24TdVhhc4yw+K4kKrl6mClLz7Nz7OlZcKY64bZTx26LpVI6mwMCarQMzfrHe8i4fBMu4fxoFej2m9g=="></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&amp;family=Quicksand:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
   <style>
@@ -221,8 +220,7 @@ html { scroll-behavior: smooth; }
 
   </style>
   <style>body { box-sizing: border-box; }</style>
-  <script src="/_sdk/0179d719c431a79e.data_sdk.js" type="text/javascript" integrity="sha512-OsRvJkI5GkC3MJQcgotQYotpzrMSX415GiKKgvYdxQEEkzD/fdchShO2FMSy0PJr/tiINMXOk5Vl2zAgg6bUiA=="></script>
- </head>
+  </head>
  <body class="h-full"><!-- Loading Screen -->
   <div class="loading-screen" id="loadingScreen">
    <div class="loading-content">
@@ -523,7 +521,7 @@ html { scroll-behavior: smooth; }
     </div>
    </section><!-- Footer -->
    <footer style="padding:32px 24px;text-align:center;" id="mainFooter">
-    <p style="margin:0;font-size:14px;opacity:0.7;">© 2024 Cupar Mutts — 911 Robertson Farm, Cupar KY15 5NX</p>
+    <p style="margin:0;font-size:14px;opacity:0.7;">© 2026 Cupar Mutts — 911 Robertson Farm, Cupar KY15 5NX</p>
     <p style="margin:8px 0 0;font-size:12px;opacity:0.5;">Established 2012 | Fully Insured | All breeds welcome</p>
    </footer><!-- Back to Top --> <button class="back-to-top" id="backToTop" onclick="document.getElementById('appWrapper').scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top"> <i data-lucide="chevron-up" style="width:24px;height:24px;"></i> </button>
   </div>
@@ -700,37 +698,6 @@ function applyConfig(config) {
   document.getElementById('servicesTitle').textContent = config.services_title || defaultConfig.services_title;
   document.getElementById('phoneText').textContent = config.contact_phone || defaultConfig.contact_phone;
 }
-
-// Init Element SDK
-window.elementSdk.init({
-  defaultConfig,
-  onConfigChange: async (config) => { applyConfig(config); },
-  mapToCapabilities: (config) => ({
-    recolorables: [
-      { get: () => config.background_color || defaultConfig.background_color, set: (v) => { config.background_color = v; window.elementSdk.setConfig({ background_color: v }); } },
-      { get: () => config.surface_color || defaultConfig.surface_color, set: (v) => { config.surface_color = v; window.elementSdk.setConfig({ surface_color: v }); } },
-      { get: () => config.text_color || defaultConfig.text_color, set: (v) => { config.text_color = v; window.elementSdk.setConfig({ text_color: v }); } },
-      { get: () => config.primary_action_color || defaultConfig.primary_action_color, set: (v) => { config.primary_action_color = v; window.elementSdk.setConfig({ primary_action_color: v }); } },
-      { get: () => config.secondary_action_color || defaultConfig.secondary_action_color, set: (v) => { config.secondary_action_color = v; window.elementSdk.setConfig({ secondary_action_color: v }); } },
-    ],
-    borderables: [],
-    fontEditable: {
-      get: () => config.font_family || defaultConfig.font_family,
-      set: (v) => { config.font_family = v; window.elementSdk.setConfig({ font_family: v }); }
-    },
-    fontSizeable: {
-      get: () => config.font_size || defaultConfig.font_size,
-      set: (v) => { config.font_size = v; window.elementSdk.setConfig({ font_size: v }); }
-    }
-  }),
-  mapToEditPanelValues: (config) => new Map([
-    ['hero_title', config.hero_title || defaultConfig.hero_title],
-    ['hero_subtitle', config.hero_subtitle || defaultConfig.hero_subtitle],
-    ['about_title', config.about_title || defaultConfig.about_title],
-    ['services_title', config.services_title || defaultConfig.services_title],
-    ['contact_phone', config.contact_phone || defaultConfig.contact_phone],
-  ])
-});
 
 // ===== NEWS TICKER =====
 const tickerItems = [
@@ -990,7 +957,7 @@ document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
 
 // ===== INIT =====
 lucide.createIcons();
-applyConfig(defaultConfig);
+
 
 // Loading screen fade out
 window.addEventListener('load', () => {
