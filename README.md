@@ -141,10 +141,8 @@ I believe in continuous learning and regularly complete professional courses to 
 
 ## Contact
 
- Email: amarachiiwueke2008@gmail.com
-
-LinkedIn:
-(Add your LinkedIn)
+ Email:
+ amarachiiwueke2008@gmail.com
 
 Portfolio Website:
 https://github.com/AMMYWEB/AMMYWEB
