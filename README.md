@@ -1,64 +1,154 @@
-# 👋 Hi, I'm Amarachi Divinefavour Iwueke
+# Amarachi Divinefavour Iwueke | Professional Portfolio
 
-## About Me
-I'm an aspiring accountant and business professional from Scotland. I enjoy web design, volunteering, and continuously learning new skills.
+## Aspiring Accountant | Business Professional | Web Developer
+
+Welcome to my professional portfolio.
+
+This repository showcases my academic achievements, professional development, work experience, certifications, and web development projects. It serves as a collection of evidence demonstrating my skills, commitment to continuous learning, and readiness for opportunities in accounting, finance, business, and technology.
 
 ---
 
-# 🏆 Certificates
+# About Me
 
-## Professional Certificates
+I am a student based in Aberdeen, Scotland, with a strong interest in accounting, finance, management consulting, and business operations.
+
+Alongside my studies, I have developed practical workplace experience, completed professional courses, volunteered within my community, and designed websites for businesses and personal projects.
+
+I enjoy solving problems, learning new skills, and taking on responsibilities that allow me to grow professionally.
+
+---
+
+# Portfolio Sections
+
+## Projects
+
+A collection of websites and digital projects demonstrating my skills in:
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- UI Design
+- Git & GitHub
+
+Each project includes screenshots, source code and documentation where appropriate.
+
+---
+
+## Work Experience
+
+Professional experience including:
+
+- McDonald's Crew Member
+- Performance Reviews
+- Workplace achievements
+- Professional development
+
+These documents demonstrate teamwork, customer service, reliability, communication and continuous improvement.
+
+---
+
+## Qualifications
+
+Academic qualifications including:
+
+- SQA Qualifications
+- WAEC Qualifications
+- Future qualifications as they are achieved
+
+---
+
+## Certificates
+
+Professional certificates completed through recognised learning providers including:
+
 - Coursera
 - FutureLearn
 - LinkedIn Learning
-
-*(More certificates coming soon.)*
+- Other professional training
 
 ---
 
-# 🥇 Awards
+## Awards & Recognition
+
+Achievements including:
 
 - School Awards
-- Attendance Awards
 - Volunteering Recognition
+- Workplace Recognition
+- Academic Achievements
 
 ---
 
-# 💼 Work Experience
+## Volunteering
 
-### McDonald's Crew Member
-- Customer service
+Examples of community involvement and volunteering experience that demonstrate leadership, communication and teamwork.
+
+---
+
+## Skills
+
+### Technical Skills
+
+- Microsoft Office
+- Excel
+- Word
+- PowerPoint
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Canva
+
+### Professional Skills
+
+- Customer Service
 - Teamwork
-- Cash handling
-- Food preparation
-
-### Volunteer
-- Face Painting
-- School Events
-- Community Activities
-
----
-
-# 🌐 Projects
-
-## Ammy Web
-Creating affordable websites for small businesses and individuals.
+- Communication
+- Problem Solving
+- Organisation
+- Time Management
+- Adaptability
+- Attention to Detail
 
 ---
 
-# 📄 CV
+## Career Interests
 
-My latest CV will be uploaded here.
+I am currently interested in opportunities within:
+
+- Accounting
+- Finance
+- Audit
+- Business Management
+- Management Consulting
+- Financial Services
+- Technology
 
 ---
 
-# 📞 Contact
+## Currently Learning
 
-📧 Email:
-(Your email)
+I believe in continuous learning and regularly complete professional courses to expand my knowledge in:
 
-🔗 LinkedIn:
-(Coming soon)
+- Accounting
+- Finance
+- Business
+- Data Analysis
+- Web Development
 
-🌍 Portfolio:
+---
+
+## Contact
+
+ Email: amarachiiwueke2008@gmail.com
+
+LinkedIn:
+(Add your LinkedIn)
+
+Portfolio Website:
 https://ammyweb.github.io
+
+---
+
+> Thank you for taking the time to view my portfolio. I hope it provides a clear overview of my experience, achievements and commitment to professional growth.
