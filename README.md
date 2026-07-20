@@ -144,7 +144,7 @@ I believe in continuous learning and regularly complete professional courses to 
  Email:
  amarachiiwueke2008@gmail.com
 
- Number: 07426951346
+Phone Number: 07426951346
 
 Project Website:
 https://ammyweb.co.uk/projects
